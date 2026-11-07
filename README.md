@@ -4,9 +4,9 @@ Sou desenvolvedor full-stack em Santa Rosa (RS) e me formei em Análise e Desenv
 
 ## Onde trabalho
 
-Na Agrat desde janeiro de 2025. O AGRAT é um sistema de gestão de SST para clínicas ocupacionais e empresas com SESMT. Eu cuido do faturamento e da emissão de NFS-e, da biometria facial, do envio de documentos por WhatsApp e dos portais do cliente e do contador. Também fiz um leitor que puxa as NRs vigentes direto do gov.br. O sistema é em C# com ASP.NET, Entity Framework e MySQL.
+Na Agrat desde janeiro de 2025, com mais de 500 commits no AGRAT, um sistema de gestão de SST para clínicas ocupacionais e empresas com SESMT. Fiz o módulo psicossocial (HSE-IT, reavaliações e laudo), o preenchimento automático dos laudos PGR, PCMSO, LTCAT e AET e o fluxo de revisão e homologação deles, a assinatura digital, a biometria facial e o módulo de treinamentos. No financeiro, cuido da emissão de NFS-e em lote, dos boletos e do envio de faturas por WhatsApp. Também escrevi as APIs REST que parceiros usam para lançar exames e admissões, e refiz o layout do sistema no padrão da landing page, que também é minha. O sistema é em C# com ASP.NET, Entity Framework e MySQL.
 
-Desde setembro de 2026 também trabalho na Pragmajus, um SaaS para advogados, peritos e assistentes técnicos. Faço a parte de normas: todo dia o sistema lê o DOU e o Planalto e monta o texto vigente de leis, decretos, INs e NRs, que vai para a biblioteca e para a busca com IA. Aqui uso TypeScript, NestJS, Prisma e React.
+Desde setembro de 2026 também trabalho na Pragmajus, um SaaS para advogados, peritos e assistentes técnicos. Cuido da base de conhecimento: todo dia o sistema lê o DOU e o Planalto e monta o texto vigente de leis, decretos, INs e NRs, e as intimações do DJEN chegam ao advogado já como prazo. A biblioteca tem busca híbrida com embeddings e perguntas à IA sobre as normas. Aqui uso TypeScript, NestJS, Prisma, PostgreSQL e React.
 
 ## Projetos meus
 
