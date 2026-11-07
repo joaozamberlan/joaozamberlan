@@ -1,23 +1,18 @@
 # João Vitor Zamberlan
 
-Desenvolvedor full-stack em Santa Rosa, RS. Formado em Análise e Desenvolvimento de Sistemas pela Unisinos.
-
-Antes de programar, passei quase quatro anos revisando laudos de medicina e segurança do trabalho. Hoje escrevo o software que esse pessoal usa.
+Sou desenvolvedor full-stack em Santa Rosa (RS) e me formei em Análise e Desenvolvimento de Sistemas na Unisinos. Antes de programar, trabalhei quase quatro anos revisando laudos de medicina e segurança do trabalho, e hoje desenvolvo software para clínicas desse mesmo setor.
 
 ## Onde trabalho
 
-**AGRAT** (desde jan/2025): sistema de gestão de SST para clínicas ocupacionais e empresas com SESMT. Cuido de faturamento e NFS-e, biometria facial, envio de documentos por WhatsApp, portal do cliente e do contador, e de um leitor das NRs vigentes direto do gov.br.
-`C#` `ASP.NET` `Entity Framework` `MySQL`
+Na Agrat desde janeiro de 2025. O AGRAT é um sistema de gestão de SST para clínicas ocupacionais e empresas com SESMT. Eu cuido do faturamento e da emissão de NFS-e, da biometria facial, do envio de documentos por WhatsApp e dos portais do cliente e do contador. Também fiz um leitor que puxa as NRs vigentes direto do gov.br. O sistema é em C# com ASP.NET, Entity Framework e MySQL.
 
-**Pragmajus** (desde set/2026): SaaS para advogados, peritos e assistentes técnicos. Faço a parte de normas: todo dia o sistema lê o DOU e o Planalto e monta o texto vigente de leis, decretos, INs e NRs, que vai para a biblioteca e para a busca com IA.
-`TypeScript` `NestJS` `Prisma` `React`
+Desde setembro de 2026 também trabalho na Pragmajus, um SaaS para advogados, peritos e assistentes técnicos. Faço a parte de normas: todo dia o sistema lê o DOU e o Planalto e monta o texto vigente de leis, decretos, INs e NRs, que vai para a biblioteca e para a busca com IA. Aqui uso TypeScript, NestJS, Prisma e React.
 
 ## Projetos meus
 
-**App de fichas de treino** para personal trainers (em desenvolvimento). O treinador monta a periodização e manda um link; o aluno registra carga e repetições no celular. Assinatura com Stripe.
-`NestJS` `PostgreSQL` `Prisma` `React` `Stripe`
+Um app de fichas de treino para personal trainers, ainda em desenvolvimento. O treinador monta a periodização e manda um link, e o aluno registra carga e repetições no celular. A cobrança é por assinatura no Stripe, e o app usa NestJS, PostgreSQL, Prisma e React.
 
-**Landing pages** do AGRAT e do Pragmajus, em React com Vite e Tailwind, pré-renderizadas como HTML estático para carregar rápido e aparecer no Google.
+As landing pages do AGRAT e do Pragmajus, feitas em React com Vite e Tailwind e pré-renderizadas como HTML estático para carregar rápido e aparecer no Google.
 
 Os repositórios são privados. Se quiser ver algo funcionando, me chama.
 
